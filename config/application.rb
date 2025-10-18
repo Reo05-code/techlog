@@ -15,5 +15,6 @@ module Techlog
       g.helper false
       g.test_framework :rspec
     end
+    config.i18n.default_locale = :ja
   end
 end
